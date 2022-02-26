@@ -1,0 +1,7 @@
+
+For ADMINISTRATOR: 
+
+ 1 juice 70 2
+ 2 bread 30 2
+ 3 butter 40 2
+ 4 eggs 170 4
